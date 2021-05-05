@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\New Exercises.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\New Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\New Exercises.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\New Exercises.AssemblyInfo.cs
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\New Exercises.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\New Exercises\bin\Debug\net5.0\New Exercises.exe
+C:\Users\dev\Desktop\New Exercises\bin\Debug\net5.0\New Exercises.deps.json
+C:\Users\dev\Desktop\New Exercises\bin\Debug\net5.0\New Exercises.runtimeconfig.json
+C:\Users\dev\Desktop\New Exercises\bin\Debug\net5.0\New Exercises.runtimeconfig.dev.json
+C:\Users\dev\Desktop\New Exercises\bin\Debug\net5.0\New Exercises.dll
+C:\Users\dev\Desktop\New Exercises\bin\Debug\net5.0\ref\New Exercises.dll
+C:\Users\dev\Desktop\New Exercises\bin\Debug\net5.0\New Exercises.pdb
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\New Exercises.dll
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\ref\New Exercises.dll
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\New Exercises.pdb
+C:\Users\dev\Desktop\New Exercises\obj\Debug\net5.0\New Exercises.genruntimeconfig.cache
